@@ -7,7 +7,7 @@ data,aula
 2022-03-11,Representação de palavras (dúvidas) - síncrona
 2022-03-14,<a href="https://github.com/ProfLuciano/pln/blob/main/slides/sequential_models.pdf">Deep Learning: Modelos sequenciais</a> | <a href="https://github.com/tensorflow/text/blob/master/docs/tutorials/text_classification_rnn.ipynb">Notebook</a> | <a href="https://drive.google.com/file/d/1hd6-A-phPQ5FkFDKW3znw7TbsYIY-8no/view?usp=sharing"> Vídeo da aula </a> - assíncrona  
 2022-03-15,<a href="https://github.com/ProfLuciano/pln/blob/main/slides/mt.pdf">Machine Translation</a> | <a href="https://www.tensorflow.org/text/tutorials/nmt_with_attention">Notebook</a> | <a href="https://drive.google.com/file/d/1S1mmjvDqUYZftq3IOxCG6C68wICRRmSN/view?usp=sharing"> Vídeo da aula </a> - assíncrona
-2022-03-16,Deep Learning: Modelos sequenciais e Information Extraction (dúvidas) - síncrona
+2022-03-16,Deep Learning: Modelos sequenciais e Machine Translation (dúvidas) - síncrona
 2022-03-17,<a href="https://github.com/ProfLuciano/pln/blob/main/slides/lang_modeling.pdf">Language modeling</a> | <a href="https://github.com/ProfLuciano/pln/blob/main/notebooks/lm.ipynb">Notebook</a> | <a href="https://drive.google.com/file/d/1_Gw6CQfOM6eppAogGc1T1YS-fqGwP9Rs/view?usp=sharing"> Vídeo da aula </a> - assíncrona
 2022-03-18,Language modeling (dúvidas) - síncrona
 2022-03-21,<a href="https://github.com/ProfLuciano/pln/blob/main/slides/bert.pdf">Modelos contextuais (BERT)</a> | <a href="https://drive.google.com/file/d/1riArYeN9CINwZXYbiFW06skuLEp5DtWp/view?usp=sharing"> Vídeo da aula </a> - assíncrona
